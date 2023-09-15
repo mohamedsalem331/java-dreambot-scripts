@@ -19,7 +19,7 @@ import org.dreambot.api.utilities.Sleep;
 import org.dreambot.api.wrappers.interactive.GameObject;
 import org.dreambot.api.wrappers.interactive.NPC;
 import org.dreambot.api.wrappers.interactive.Player;
-@ScriptManifest(name = "MiningScript", description = "Ya maroooo ya alyyyyyy", author = "Zamboly",
+@ScriptManifest(name = "MiningScript", description = "mining", author = "salem",
         version = 1.0, category = Category.WOODCUTTING, image = "")
 public class Main extends AbstractScript implements ChatListener {
     private final Area mineArea = new Area(3076, 3423, 3085, 3417);
