@@ -27,7 +27,7 @@ import org.dreambot.api.wrappers.widgets.message.Message;
 
 import java.awt.*;
 
-@ScriptManifest(name = "WoodFireScript", description = "Ya maroooo ya alyyyyyy", author = "Zamboly",
+@ScriptManifest(name = "WoodFireScript", description = "woodfire", author = "salem",
         version = 1.0, category = Category.WOODCUTTING, image = "")
 public class Main extends AbstractScript implements ChatListener {
     Color c = new Color(255, 255, 0);
